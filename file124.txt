@@ -1,4 +1,6 @@
 Artificial intelligence
 Machine Learning 
 Big Data Analytics
+Deep Learning 
+Stats
 
